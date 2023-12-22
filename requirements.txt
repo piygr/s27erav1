@@ -1,0 +1,13 @@
+torch
+numpy
+transformers
+datasets
+tiktoken
+wandb
+tqdm
+trl
+accelerate
+git+https://github.com/huggingface/peft.git
+bitsandbytes
+einops
+scipy
